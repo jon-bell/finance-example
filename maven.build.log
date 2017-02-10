@@ -1,0 +1,7 @@
+edu.gmu.cs490.finance:finance-consuming-example	null	process-resources	resources	org.apache.maven.plugins:maven-resources-plugin	132	true
+edu.gmu.cs490.finance:finance-consuming-example	null	compile	compile	org.apache.maven.plugins:maven-compiler-plugin	162	true
+edu.gmu.cs490.finance:finance-consuming-example	null	process-test-resources	testResources	org.apache.maven.plugins:maven-resources-plugin	1	true
+edu.gmu.cs490.finance:finance-consuming-example	null	test-compile	testCompile	org.apache.maven.plugins:maven-compiler-plugin	2	true
+edu.gmu.cs490.finance:finance-consuming-example	/Users/jon/Documents/GMU/Teaching/finance-example	test	test	org.apache.maven.plugins:maven-surefire-plugin	72	true
+edu.gmu.cs490.finance:finance-consuming-example	null	package	jar	org.apache.maven.plugins:maven-jar-plugin	123	true
+edu.gmu.cs490.finance:finance-consuming-example	null	package	shade	org.apache.maven.plugins:maven-shade-plugin	221	true
